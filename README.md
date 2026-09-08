@@ -238,3 +238,6 @@ This repository serves as the official landing page for Easy Image Modifier. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Easy Image Modifier today!**
+
+---
+**Last updated:** 2026-09-08 01:04:50 UTC
